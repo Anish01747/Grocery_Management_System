@@ -26,7 +26,7 @@ A **console-based Python application** to manage a grocery store’s items and e
 - Uses SQLite database (`grocery.db`) for data storage.
 - Compatible with Windows CMD, Linux, or Mac terminals.
 
-Future Improvements
+### Future Improvements
 Here are some enhancements that can be added in the future:
 1. Graphical User Interface (GUI)
 Implement a GUI using Tkinter or PyQt for a more user-friendly experience.
